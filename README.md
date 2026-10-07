@@ -4,7 +4,7 @@ A Windows console app that downloads Steam game reviews and stores them for late
 
 ## Setup
 
-You need Python 3.9 or newer on Windows.
+You need Python 3.9 or newer on Windows. You can download it from the official Python website: https://www.python.org/downloads/
 
 From the project folder:
 
