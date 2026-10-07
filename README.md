@@ -13,8 +13,6 @@ python -m pip install -r requirements.txt
 python main.py
 ```
 
-If `py -3` is not available, call your Python executable instead, for example `python -m venv .venv`.
-
 On the first launch the app asks for two settings:
 
 1. **Game title language.** A Steam language code such as `english` or `russian`. This affects game titles and genres. Review text is always downloaded in every language.
