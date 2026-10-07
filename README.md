@@ -9,8 +9,6 @@ You need Python 3.9 or newer on Windows.
 From the project folder:
 
 ```powershell
-py -3 -m venv .venv
-.\.venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
 python main.py
 ```
